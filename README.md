@@ -11,9 +11,6 @@
   - memahami konsep Git yang lebih dalam, seperti branching dan merging.
   - ide-ide segar untuk proyek selanjutnya.
   - referensi dan tutorial
-📫 How to reach me:
-  - LinkedIn: https://www.linkedin.com/in/made-martha-thalia-sukmawan
-  - Instagram: https://www.instagram.com/marthathaliaa/
 ⚡ Fun fact: Kodingan saya 99% berfungsi karena 'copy-paste' dari Stack Overflow, 1% karena keajaiban.
 
 <!--
